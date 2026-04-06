@@ -8,13 +8,22 @@ body {
   justify-content: center;
 }
 
+/*Adicionei isso  */
 .navbar-custom {
-  background-color: #3A0716;
-  height: 200px; 
+  background: linear-gradient(
+    to bottom,
+    #8B1C2D 0%,     /* rosa */
+    #8B1C2D 20%,
+    #0A1F44 20%,    /* azul */
+    #0A1F44 80%,
+    #8B1C2D 80%,    /* rosa */
+    #8B1C2D 100%
+  );
 }
 
+/* tava -35px*/
 .navbar-brand img {
-  margin-top: -45px;
+  margin-top: -8px;
   width: 400px;
 }
 
