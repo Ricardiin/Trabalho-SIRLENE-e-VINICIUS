@@ -12,11 +12,11 @@ body {
 .navbar-custom {
   background: linear-gradient(
     to bottom,
-    #8B1C2D 0%,     /* rosa */
+    #8B1C2D 0%,     /* a cor que vc imaginar */
     #8B1C2D 20%,
-    #0A1F44 20%,    /* azul */
+    #0A1F44 20%,    /* eu acho que é azul */
     #0A1F44 80%,
-    #8B1C2D 80%,    /* rosa */
+    #8B1C2D 80%,    /* a cor que vc imaginar */
     #8B1C2D 100%
   );
 }
