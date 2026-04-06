@@ -1,0 +1,38 @@
+body {
+  background-color: #C7C9CF;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-custom {
+  background-color: #3A0716;
+  height: 200px; 
+}
+
+.navbar-brand img {
+  margin-top: -45px;
+  width: 400px;
+}
+
+.card {
+  border: 5px solid #840D30;
+  transition: 0.3s;
+  background-color: #840D30;
+  border-radius: 15%;
+
+}
+
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.card-img-top {
+  border: 5px solid #840D30;
+  border-radius: 15%;
+}
