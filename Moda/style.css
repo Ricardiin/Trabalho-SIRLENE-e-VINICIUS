@@ -45,3 +45,15 @@ body {
   border: 5px solid #840D30;
   border-radius: 15%;
 }
+
+.text-custom {
+  color: #0A1F44;
+}
+
+.btn {
+  background-color: #0A1F44; /* Cor de fundo */
+  color: white;              /* Cor do texto */
+  padding: 10px 20px;       /* Espaçamento interno */
+  border: none;              /* Remove borda padrão */
+  cursor: pointer;           /* Cursor de clique */
+}
