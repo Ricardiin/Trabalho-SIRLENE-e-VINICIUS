@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MODA</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+
+  <!-- Seu CSS -->
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    .navbar-custom {
+      background-color: #0A1F44;
+      /* azul escuro */
+
+    }
+  </style>
+</head>
+
+<body>
+
+     <!-- NAVBAR -->
+<header class="container-fluid p-0">
+  <nav class="navbar navbar-custom">
+    <div class="container justify-content-center">
+      <a class="navbar-brand" href="#">
+        <img src="img/zyro.png" alt="logo">
+      </a>
+    </div>
+  </nav>
+
+  <!-- Margem do Nav e os CARDs -->
+  <div style="padding:0px;"></div>
+</header>
+	<div class="container bs-danger-border-subtle text-center py-3">
+
+		<h1 class="text-light-emphasis">Cadastrar novo produto</h1>
+
+		
+
+        <form>
+			<div class="mb-3">
+				<input type="text" name="roupa" class="form-control"
+					placeholder="Código da Roupa" aria-label="Digite o Código" required>
+			</div>
+
+			<div class="mb-3">
+				<input type="text" name="tipo" class="form-control"
+					placeholder="Tipo de roupa" aria-label="Digite o tipo de roupa"
+					required>
+			</div>
+
+			<div class="mb-3">
+				<input type="email" name="email" class="form-control"
+					placeholder="Sessão" aria-label="Digite a Sessão">
+			</div>
+		</form>
+		
+<button class="btn btn-primary " onclick="validar()">Adicionar
+		</button>
+	</div>
+	<script
+		src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+	<script
+		src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js"></script>		
+	<script src="scripts/validador.js"></script>
+		
+</body>
+</html>
