@@ -2,7 +2,7 @@
 
 Este projeto é um sistema web desenvolvido para gerenciamento de produtos, permitindo realizar operações completas de cadastro, edição, exclusão e visualização de itens em estoque.
 
-O sistema foi desenvolvido como parte de um projeto integrador, com foco em integração entre frontend e backend, utilizando tecnologias Java Web.
+O sistema foi desenvolvido como parte de uma atividade, com foco em integração entre frontend e backend, utilizando tecnologias Java Web.
 
 ---
 
