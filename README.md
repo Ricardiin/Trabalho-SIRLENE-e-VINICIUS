@@ -1,4 +1,34 @@
-# Projeto Frontend integrado com Backend
+🛍️ Sistema de Gerenciamento de Produtos
 
-- Uma loja de moda que cadastra,registra e edita.
-- Funçoes de Login em que o ADMIN "gerente consegue editar/excluir o item selecionado.
+Este projeto é um sistema web desenvolvido para gerenciamento de produtos, permitindo realizar operações completas de cadastro, edição, exclusão e visualização de itens em estoque.
+
+O sistema foi desenvolvido como parte de um projeto integrador, com foco em integração entre frontend e backend, utilizando tecnologias Java Web.
+
+🚀 Funcionalidades
+📦 Cadastro de produtos
+✏️ Edição de produtos
+❌ Exclusão de produtos
+📋 Listagem de produtos
+👁️ Preview em tempo real no cadastro/edição
+📊 Geração de relatório em PDF
+🔐 Controle de acesso (modo gerente e usuário)
+🛠️ Tecnologias Utilizadas
+🔙 Backend
+Java
+Servlet (Jakarta)
+JDBC
+MySQL
+🎨 Frontend
+JSP
+HTML5
+CSS3
+Bootstrap 5
+JavaScript
+📄 Outros
+iText PDF (geração de relatórios)
+🧠 Conceitos Aplicados
+Arquitetura MVC (Model-View-Controller)
+CRUD completo (Create, Read, Update, Delete)
+Manipulação de sessões (login e permissões)
+Integração entre frontend e backend
+Geração de documentos PDF dinâmicos
