@@ -4,7 +4,9 @@ Este projeto é um sistema web desenvolvido para gerenciamento de produtos, perm
 
 O sistema foi desenvolvido como parte de um projeto integrador, com foco em integração entre frontend e backend, utilizando tecnologias Java Web.
 
+<br>
 🚀 Funcionalidades
+<br>
 📦 Cadastro de produtos
 ✏️ Edição de produtos
 ❌ Exclusão de produtos
