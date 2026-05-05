@@ -53,6 +53,9 @@ O sistema foi desenvolvido como parte de uma atividade, com foco em integração
 Este projeto tem como objetivo praticar e demonstrar conhecimentos em desenvolvimento web com Java, incluindo integração completa entre frontend e backend, manipulação de dados e geração de relatórios.
 
 ---
+## Imagens 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebfe50b7-b9fc-4239-a474-3077912ca35f" />
+
 
 ## 👨‍💻 Autor
 
